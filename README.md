@@ -2,19 +2,9 @@
 
 Repo: https://github.com/ucsb-cs156-s22/jpa02-hyunkyumkim
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-s22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-hyunkyumkim.herokuapp.com
 
-
-On Heroku: https://cs156-s22-jpa02-cgaucho.herokuapp.com
-
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-hyunkyumkim
 
 
 # About this repo
