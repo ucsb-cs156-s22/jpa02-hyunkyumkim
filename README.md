@@ -1,6 +1,6 @@
 # jpa02-hyunkyumkim
 
-Repo: https://ucsb-cs156-s22/jpa02-hyunkyumkim
+Repo: https://github.com/ucsb-cs156-s22/jpa02-hyunkyumkim
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
